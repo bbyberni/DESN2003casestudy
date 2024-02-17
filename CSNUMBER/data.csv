@@ -1,0 +1,9 @@
+in:S1 Distance,out:Result,img
+1,1,-999,S1Number1_S2Number1.png
+2,1,0.266667,S1Number2_S2Number1.png
+3,1,0.438889,S1Number3_S2Number1.png
+4,1,0.638889,S1Number4_S2Number1.png
+1,2,0.022222,S1Number1_S2Number2.png
+2,2,0.294444,S1Number2_S2Number2.png
+3,2,0.461111,S1Number3_S2Number2.png
+4,2,0.655556,S1Number4_S2Number2.png
